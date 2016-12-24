@@ -1,4 +1,6 @@
 #Author: Abheek Gulati
+#For: NJIT class CS 656
+
 #This TCP Server can handle two connections
 
 import socket 
